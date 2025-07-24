@@ -1,6 +1,6 @@
 # 🎵 Musik – A Beautiful Neumorphic Music Player in SwiftUI
 
-Musik is a visually rich, minimalistic music player app built using **SwiftUI**, showcasing a modern **Neumorphic UI design**, modular architecture, and clean animations. Designed as a Swift playground to explore UI/UX with performance and clarity.
+Musik is a visually rich, minimalistic music player app built using **SwiftUI**, showcasing a modern **Neumorphic UI**, modular architecture, and clean animations. Designed as a Swift playground to explore UI/UX with performance and clarity in mind.
 
 ---
 
@@ -8,32 +8,37 @@ Musik is a visually rich, minimalistic music player app built using **SwiftUI**,
 
 - 🎧 **Music Playback UI** with play, pause, skip, and like buttons
 - 📀 **Dynamic Playlist & Recently Played Sections**
-- 👤 **“Made for You” Recommendation Block**
-- 🌗 **Neumorphic Design Elements** using custom shadows
-- 📱 **Fully adaptive** for all iPhone screen sizes
-- 🔒 Built using **MVVM** architecture for clean code separation
+- 👤 **“Made for You” Personalized Recommendation Block**
+- 🌗 **Neumorphic Design Elements** with custom shadow styling
+- 📱 **Fully adaptive** layout for all iPhone screen sizes
+- 🔒 Built using **MVVM architecture** for clean code separation
+- 🧩 Custom reusable **`.modifier()`** extensions for fonts and shadows
 
 ---
 
-## 📸 Screenshots
+## 💡 Motivation & Problem Solved
 
-| Home | Player |
-|------|--------|
-| ![Home View](assets/home-view.png) | ![Player View](assets/player-view.png) |
-
-> _(Add your own screenshots to `/assets/` and update the paths above)_
+Most mobile music players are cluttered or hard to customize. With Musik, I wanted to build a lightweight, elegant app that focuses on **visual clarity and architectural cleanliness**. It helped me deepen my skills in **SwiftUI**, **MVVM**, and **custom UI styling** while solving the challenge of building a **responsive neumorphic design**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tool         | Usage                         |
-|--------------|-------------------------------|
-| `SwiftUI`     | UI Design                     |
-| `MVVM`        | Architectural Pattern         |
-| `Xcode`       | Development Environment       |
-| `.modifier()` | Custom fonts, shadows, styles |
-| `@StateObject`| ViewModel bindings            |
+| Tool           | Purpose                        |
+|----------------|--------------------------------|
+| `SwiftUI`      | UI & Layout                    |
+| `MVVM`         | Architecture Pattern           |
+| `Xcode`        | IDE                            |
+| `.modifier()`  | Custom fonts, shadows, styles  |
+| `@StateObject` | ViewModel Bindings             |
+
+---
+
+## 📸 Screenshots
+
+| Home View (Light) | Home View (Dark) | Player View |
+|-------------------|------------------|-------------|
+| ![Home](assets/Home.png) | ![Dark](assets/Homeviewdark.png) | ![Player](assets/player.png) |
 
 ---
 
