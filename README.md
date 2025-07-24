@@ -38,7 +38,7 @@ Most mobile music players are cluttered or hard to customize. With Musik, I want
 
 | Home View (Light) | Home View (Dark) | Player View |
 |-------------------|------------------|-------------|
-| ![Home](asset/Home.png) | ![Dark](asset/Homeviewdark.png) | ![Player](asset/player.png) |
+| ![Home]([asset/Home.png](https://github.com/AwkwardlyProfessional/Musik/blob/main/assest/Home.png)) | ![Dark]([asset/Homeviewdark.png](https://github.com/AwkwardlyProfessional/Musik/blob/main/assest/Homeviewdark.png)) | ![Player]([asset/player.png](https://github.com/AwkwardlyProfessional/Musik/blob/main/assest/player.png)) |
 
 ---
 
